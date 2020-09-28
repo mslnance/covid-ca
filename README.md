@@ -22,4 +22,4 @@ Materialize is our third-party CSS library.  We used two separate APIs to retrie
 
 Here is a preview of our page: ![picture of the page](./assets/images/covid.png)
 
-Try it for yourself! https://aaroncenteno.github.io/covid-ca/
+Try it for yourself! https://mslnance.github.io/covid-ca/ (original page https://aaroncenteno.github.io/covid-ca/)
